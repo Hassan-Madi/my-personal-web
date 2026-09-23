@@ -262,3 +262,20 @@ body {
     color: #94a3b8;
 }
 
+.back-btn {
+  display: inline-block;
+  margin: 15px;
+  padding: 8px 16px;
+  background-color: #38bdf8;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.back-btn:hover {
+  background-color: #0284c7;
+}
+
